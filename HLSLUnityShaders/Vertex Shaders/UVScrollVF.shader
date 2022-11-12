@@ -1,0 +1,33 @@
+﻿//Scrolling textures!
+Shader "CustomVertex/UVScrollVF"
+{
+    Properties 
+    {
+		_MainTex ("Texture",2D) = "white" {}
+        _ScrollX ("Scroll X", Range(-5,5)) = 1
+        _ScrollY ("Scroll Y", Range(-5,5)) = 1
+    }
+
+    SubShader
+    { 
+            CGPROGRAM
+                #pragma surface surf Lambert
+
+                sampler2D _MainTex;
+                float _ScrollX;
+                float _ScrollY;
+
+				struct Input
+				{
+					float2 uv_MainTex;
+				};
+
+				void surf(Input IN, inout SurfaceOutput o)
+                {
+                    _ScrollX *= _Time;
+                    float2 newuv = IN.uv_MainTex + float2(_ScrollX, _ScrollY);
+                    o.Albedo = tex2D(_MainTex, newuv);
+                }
+            ENDCG
+        }
+}

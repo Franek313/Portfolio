@@ -1,0 +1,37 @@
+C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Bitwa
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Bitwa morska
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Dżungla
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Jadalnia
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Laboratorium
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Las dzień
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Las noc
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Miasto
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Mrok
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Ognisko
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Portal
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Statek
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Statek port
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Strumień
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Syreni śpiew
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Targ
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Otoczenie\Zły Portal
+C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Pogoda
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Pogoda\Burza
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Pogoda\Deszcz
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Pogoda\Sztorm
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Pogoda\Zamieć
+C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Jaszczur
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Kraken
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Minotaur
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Myszy
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Nietoperze
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Ropuch
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Syrena
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Tubylec
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Wampir
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Wilk
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Wilkołak
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Wąpierz
+	C:\Users\Franek\Documents\GitHub\RPGAudio2021\Assets\StreamingAssets\AMBIENCE\Potwory\Zombie
