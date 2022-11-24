@@ -1,0 +1,44 @@
+Maria
+100 100 100
+90 90 90
+255 255 255
+
+#1
+* Witaj! :)
+1 Witaj, jestem {name}. Wybacz że cię zaczepiam, ale niedawono tu przyjechałem i rozglądam się po okolicy &2 
+#
+
+#2
+* Miło cię poznać {name}, nic nie szkodzi. Szukasz czegoś? :)
+1 Przyszedłem po parę książek. &3 
+2 Tylko się rozglądam. Biblioteka wydała się ciekawa. &3 
+#
+
+#3
+* Ja kocham książki! Tylko...właśnie w tej chwili mam pewien problem... :)
+1 ... &4
+#
+
+#4
+* Dzieła Shakespeare'a, na których mi zależy leżą za wysoko, a ja mam lęk wysokości... :(
+1 Spoko, zaraz je zdejmę. &5
+2 Leżą też tutaj obok na biurku, sprawa rozwiązana. &6
+3 Niestety śpieszę się bardzo i nie mogę pomóc. &7
+#
+
+#5
+* Naprawdę!? Kocham cię bądź moim chłopakiem elo <3
+0 I będziemy żyć długo i szczęśliwie!
+#
+
+#6
+* Oh, rzeczywiście, gapa ze mnie, dzięki ;)
+0 Spoko, polecam się na przyszłość.
+#
+
+#7
+* Wszyscy mężczyźni są tacy sami, idź już! :O
+0 Wariatka...
+#
+
+

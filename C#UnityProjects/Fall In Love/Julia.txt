@@ -1,0 +1,120 @@
+Julia
+255 255 100
+120 120 100
+255 255 100
+
+#1
+* Siema mordeczko :)
+1 Siema! &2
+2 No cześć... &2
+3 Witam. &2
+#
+
+#2
+* Co tu porabiasz? :)
+1 Czasami chodzę do parku pobiegać. &3 
+2 Zauważyłem, że jeździłaś na desce. &33
+#
+
+#3
+* Spoczko, zdrowie zawsze gitara :)
+1 ... &4
+#
+
+#33
+* No jeżdżę czasami, nawet często :)
+1 ... &44
+#
+
+#4
+* Łatwiej o nie dbać niż o studia... :)
+1 Chodzisz do nas na kampus? &5
+2 Widziałaś może w okolicy gdzieś takiego małego psa? &6
+#
+
+#44
+* Fajna sprawa ogółem... :)
+1 Zainteresowania są ważne, studiujesz coś? &5
+2 Widziałaś może w okolicy gdzieś takiego małego psa? &6
+#
+
+#5
+* Nie zdałam semestru niestety :(
+1 No czasami się trzeba przyłożyć. &14
+2 Zawsze to tylko semestr. Można powtórzyć. &55
+#
+
+#55
+* Co fakt to fakt :)
+1 Widziałaś może w okolicy gdzieś takiego małego psa? &6
+#
+
+#6
+* W parku jest dużo psów ;)
+1 Fakt, olać to, wróci. &9
+2 Mój, to znaczy jednej koleżanki, taki zły szczur &8
+3 Pies koleżanki zginął, taki mały uroczy &7
+#
+
+#7
+* Niestety nie widziałam :)
+0 W każdym razie dzięki za pomoc, pa!
+#
+
+#8
+* Hah, niestety, a może na szczęście, nie widziałam ;)
+1 Mówię ci paskudny, może lepiej niech nie wraca. &10
+2 Może i za nim nie przepadam, ale Maria bardzo go kocha. &11
+#
+
+#9
+* Mam nadzieję, powodzenia w szukaniu, ja muszę spadać :)
+0 Dzięki za pogawędkę, trzymaj się!
+#
+
+#10
+* Też nie lubię takich szczurów, ostatnio muszę wyprowadzać ciotce takiego. ;)
+1 Łazisz z nim wtedy tutaj? &15
+2 No to jest masakra. Pewnie mój też się znajdzie jakoś. &9
+#
+
+#11
+* Nie znam, to nie wiem :)
+1 Taka jedna. Skomplikowana sprawa powiem ci. &13
+2 No nie ważne muszę iść go szukać. &12
+#
+
+#12
+* Cześć! :)
+0 Cześć
+#
+
+#13
+* Bywa :)
+1 Taa cięzka sprawa &14
+#
+
+#14
+* Wiesz co fajnie się gada, ale muszę zawijać :)
+1 Jasne bez problemu &12
+#
+
+#15
+* Zdarza się :)
+1 To może jak znajdę swojego pójdziemy się kiedyś przejść? &16
+2 To fajne miejsce ogółem. &14
+#
+
+#16
+* W sumie why not, przy takiej nudzie towarzystwo git :)
+1 To jakby co będę tu jutro około 12.00, do zobaczenia! &17
+2 O której ci pasuje? &17
+#
+
+#17
+* Mi obojętnie, mam wolny dzień, może być 12.00? :)
+1 Super, no to do zobaczenia o 12.00 &12
+#
+
+
+
